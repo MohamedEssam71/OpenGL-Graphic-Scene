@@ -1,5 +1,7 @@
 # OpenGL-Graphic-Scene
-Computer Graphics Project
+
+![Home](https://github.com/MohamedEssam71/OpenGL-Graphic-Scene/assets/101371937/702f1a48-3933-41dd-a03c-d6b4eaf4ffb8)
+
 # Requirements
 
 ## 1. Draw a 3D Scene

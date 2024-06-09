@@ -56,5 +56,5 @@
 
  # Contributors
 
-<!--* [Abdelrahman Gomaa](https://github.com/Abdelrahman-G) -->
+* [Abdelrahman Gomaa](https://github.com/Abdelrahman-G)
 * [Mohamed Essam](https://github.com/MohamedEssam71)
